@@ -1,7 +1,7 @@
 # Acrobat Pro DC Mac
 
 <p align="center">
-  <img src="https://www.clipartmax.com/png/middle/148-1481020_adobe-creative-adobe-acrobat-pro-dc-icon.png" width="200" alt="Acrobat Pro DC icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Adobe_Acrobat_DC_logo_2020.svg/330px-Adobe_Acrobat_DC_logo_2020.svg.png" width="200" alt="Acrobat Pro DC icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.filehorse.com/screenshots-mac//office-and-business-tools/adobe-acrobat-pro-dc-screenshot-02.png" alt="Acrobat Pro DC screenshot"/>
+  <img src="https://uploads-us-west-2.insided.com/adobedme-en/attachment/496017i1F987BEB0D805B42.png" alt="Acrobat Pro DC screenshot"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ The <a href="#">PDF editing engine</a> treats text, images, and objects in a PDF
 ---
 
 <p align="center">
-  <img src="https://smojem.ru/uploads/posts/2018-11/1541695866_ad0be_acrobt_pro_dc_2018_macos_1.jpg" alt="Acrobat Pro DC screenshot 2"/>
+  <img src="https://macx.ws/uploads/posts/2024-12/acrobat-pro-dc_03.jpg" alt="Acrobat Pro DC screenshot 2"/>
 </p>
 
 ---
